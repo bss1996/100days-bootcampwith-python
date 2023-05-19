@@ -2,7 +2,7 @@
 ##DAY--1
 
 
-print("Day 1 - Python Print Function")
+print("Day 1 - Python Print Function is the best")
 print("The function is declared like this:")
 print("print('what to print')")
 
@@ -32,3 +32,13 @@ a = b
 b = c
 print("a: " + a)
 print("b: " + b)
+
+
+a = input("a: ")
+b = input("b: ")
+
+c = a
+a = b
+b = c
+print("a: " + a)
+print("b: " + b
