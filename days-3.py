@@ -86,7 +86,7 @@ print(f"Your final bill is ${bill}")
 
 ##--LOVE--Calculator exercise.
 
-print("Welcome to the Love Calculator!")
+print("Welcome to the Loving Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
 
